@@ -19,6 +19,8 @@ Each unique letter is treated as a variable.
 - Constraint: column-wise addition must be correct
 For example, a puzzle like SEND + MORE = MONEY is converted into a set of mathematical constraints between digits.
 
+<img width="241" height="103" alt="Screenshot 2026-02-19 at 7 17 44 AM" src="https://github.com/user-attachments/assets/589f82a1-c1ee-4d90-a097-122f14950677" />
+
 ### 2) Constraint Satisfaction Model
 The puzzle is modeled using:
 - Variables → letters
